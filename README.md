@@ -1,4 +1,4 @@
-# Connet
+# Inventario Mercado
 Aplicación desarrollada para el módulo de **Desarrollo web en entorno servidor**.<br/> 
 Antonio J. Sánchez - curso 2020/21
 
