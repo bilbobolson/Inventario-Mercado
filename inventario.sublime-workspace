@@ -1,0 +1,572 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getIte",
+				"getIdIte"
+			],
+			[
+				"getI",
+				"getIdIte"
+			],
+			[
+				"Ses",
+				"sesion"
+			],
+			[
+				"session_de",
+				"session_destroy"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"word",
+				"word-wrap\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "inventario.php",
+			"settings":
+			{
+				"buffer_size": 2069,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "libs/inventario.js",
+			"settings":
+			{
+				"buffer_size": 1630,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "objetos/Item.php",
+			"settings":
+			{
+				"buffer_size": 2513,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "operaciones.php",
+			"settings":
+			{
+				"buffer_size": 172,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<?php"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"hmtl",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"getter",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"constru",
+				"Snippet: function __construct"
+			],
+			[
+				"gette",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/inventario",
+		"/C/xampp/htdocs/inventario/libs",
+		"/C/xampp/htdocs/inventario/objetos"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/ejemplo.html",
+		"/C/xampp/htdocs/inventario/libs/Database.php",
+		"/C/xampp/htdocs/inventario/objetos/Puesto.php",
+		"/C/xampp/htdocs/inventario/index.php",
+		"/C/xampp/htdocs/inventario/aniadir.php",
+		"/C/xampp/htdocs/inventario/objetos/puestos.php",
+		"/C/xampp/htdocs/connet/libs/Database.php",
+		"/C/xampp/htdocs/connet/main.php",
+		"/C/xampp/htdocs/connet/info.php",
+		"/C/xampp/htdocs/connet/objetos/Aficion.php",
+		"/C/xampp/htdocs/connet/css/connet.css",
+		"/C/xampp/htdocs/connet/objetos/Usuario.php",
+		"/C/xampp/htdocs/connet/prueba.php",
+		"/C/xampp/htdocs/connet/libs/Sesion.php",
+		"/C/Users/AJ/Desktop/ejercicio02.html",
+		"/C/Users/AJ/Desktop/ejercicio.html",
+		"/C/Users/AJ/Downloads/inventario.sql",
+		"/C/xampp/htdocs/connet/objetos/Ciudad.php",
+		"/C/xampp/htdocs/connet/index.php",
+		"/C/xampp/htdocs/connet/login.php",
+		"/C/xampp/htdocs/invdependencias.php",
+		"/C/xampp/htdocs/connet/includes/header.php",
+		"/C/xampp/htdocs/connet/libs/navbar.php",
+		"/C/xampp/htdocs/connet/imagenes/logo.svg",
+		"/C/xampp/htdocs/prueba.php",
+		"/C/xampp/htdocs/connet/libs/utilities.php",
+		"/C/xampp/htdocs/singleton.php",
+		"/C/xampp/mysql/bin/my.ini",
+		"/C/xampp/htdocs/clase.php",
+		"/C/xampp/htdocs/connet/libs/texto.php",
+		"/C/xampp/htdocs/connet/salir.php",
+		"/C/xampp/htdocs/connet/registrar.php",
+		"/C/xampp/htdocs/connet/abstracta.php",
+		"/C/xampp/htdocs/objetos/objetos_02.php",
+		"/C/xampp/htdocs/objetos/objetos_01.php",
+		"/C/xampp/htdocs/connet/registro.php",
+		"/C/xampp/htdocs/ejercicios/tema02/ejemplo01b.php",
+		"/C/xampp/htdocs/ejercicios/tema02/ejemplo01.php",
+		"/C/xampp/htdocs/ejercicios/tema03/ejercicio04.php",
+		"/C/xampp/htdocs/ejercicios/tema03/ejercicio04b.php",
+		"/C/xampp/htdocs/ejercicios/connet/index.php",
+		"/C/xampp/htdocs/ejercicios/tema03/header.php",
+		"/C/Users/AJ/Desktop/documentoXML.xml",
+		"/C/xampp/htdocs/ejercicios/ejemplo02.php",
+		"/C/xampp/htdocs/ejercicios/ejemplo03.php",
+		"/C/xampp/htdocs/ejercicios/tema03/ejercicio01.php",
+		"/C/xampp/htdocs/ejercicios/tema03/ejercicio01b.php",
+		"/C/xampp/htdocs/ejercicios/tema03/ejemplo01b.php",
+		"/C/xampp/htdocs/ejercicios/tema03/ejemplo01.php",
+		"/C/xampp/htdocs/ejercicios/tema 03/ejercicio01.php",
+		"/C/xampp/htdocs/ejercicios/ejercicio10-14.php",
+		"/C/xampp/htdocs/ejercicios/ejercicio07.php",
+		"/C/xampp/htdocs/ejercicios/ejercicio07-09.php",
+		"/C/xampp/htdocs/ejercicios/ejercicio04.php",
+		"/C/xampp/htdocs/ejercicios/ejercicio05-09.php",
+		"/C/xampp/htdocs/ejercicios/ejercicio06.php",
+		"/C/xampp/htdocs/ejercicios/ejercicio05.php",
+		"/C/xampp/htdocs/ejercicios/ejercicio01-04.php",
+		"/C/xampp/htdocs/ejercicios/ejemplo.php",
+		"/C/xampp/htdocs/ejercicios/cadenas.php",
+		"/C/xampp/htdocs/ejercicios/holamundo.php",
+		"/C/xampp/htdocs/ejercicios/ejercicio03.php",
+		"/C/xampp/htdocs/examen/vistas/lector/index.php.twig",
+		"/C/xampp/htdocs/examen/core/Sesion.php",
+		"/C/xampp/htdocs/examen/vistas/libros/index.php.twig",
+		"/C/xampp/htdocs/examen/controladores/LibroController.php",
+		"/C/xampp/htdocs/examen/controladores/LectorController.php",
+		"/C/xampp/htdocs/examen/controladores/BaseController.php",
+		"/C/xampp/htdocs/examen/index.php",
+		"/C/xampp/htdocs/examen/modelos/Lector.php",
+		"/C/xampp/htdocs/examen/vistas/plantilla.base.php.twig",
+		"/C/xampp/htdocs/examen/vistas/libro/index.php.twig",
+		"/C/xampp/htdocs/examen/vistas/comentario/comentario.php.twig",
+		"/C/xampp/htdocs/examen/modelos/Comentario.php",
+		"/C/xampp/htdocs/examen/controladores/ComentarioController.php",
+		"/C/xampp/htdocs/examen/modelos/Libro.php",
+		"/C/xampp/htdocs/examen/vistas/comentario/anadir.php.twig",
+		"/C/xampp/htdocs/examen/vistas/lector/prestamos.php.twig",
+		"/C/xampp/htdocs/examen/core/Request.php",
+		"/C/xampp/htdocs/examen/core/Routing.php",
+		"/C/xampp/htdocs/examen/core/Database.php",
+		"/C/xampp/htdocs/misseries/vistas/plantillaBase.php.twig.php",
+		"/C/xampp/htdocs/mvc/libs/Routing.php",
+		"/C/xampp/htdocs/misseries/libs/Databse.php",
+		"/C/xampp/htdocs/misseries/modelos/Genero.php",
+		"/C/xampp/htdocs/misseries/modelos/Serie.php",
+		"/C/xampp/htdocs/misseries/controladores/SerieController.php",
+		"/C/xampp/htdocs/misseries/index.php",
+		"/C/xampp/htdocs/examen/biblioteca.sql",
+		"/C/xampp/htdocs/misseries/controladores/BaseController.php",
+		"/C/xampp/htdocs/mvc/libs/Database.php",
+		"/C/xampp/htdocs/misseries/.env",
+		"/C/xampp/htdocs/laravel/app/Models/Tablero.php",
+		"/C/xampp/htdocs/laravel/routes/web.php",
+		"/C/xampp/prueba.bat",
+		"/C/xampp/htdocs/laravel/database/migrations/2020_02_05_084230_create_etiqueta_table.php",
+		"/C/xampp/htdocs/laravel/database/migrations/2020_02_05_084302_create_nota_etiqueta_table.php",
+		"/C/xampp/htdocs/laravel/database/seeds/TagTableSeeder.php",
+		"/C/xampp/htdocs/laravel/app/Models/Etiqueta.php",
+		"/C/xampp/htdocs/laravel/app/Models/Nota.php",
+		"/C/Users/AJ/Downloads/nota_etiqueta (14).sql",
+		"/C/Users/AJ/Downloads/nota_etiqueta (15).sql",
+		"/C/Users/AJ/Downloads/nota_etiqueta (13).sql",
+		"/C/Users/AJ/Downloads/nota_etiqueta (12).sql",
+		"/C/Users/AJ/Downloads/nota_etiqueta (9).sql",
+		"/C/Users/AJ/Downloads/nota_etiqueta (10).sql",
+		"/C/Users/AJ/Downloads/nota_etiqueta (11).sql",
+		"/C/Users/AJ/Downloads/nota_etiqueta (6).sql",
+		"/C/Users/AJ/Downloads/nota_etiqueta (4).sql",
+		"/C/Users/AJ/Downloads/nota_etiqueta (7).sql",
+		"/C/Users/AJ/Downloads/nota_etiqueta (8).sql",
+		"/C/Users/AJ/Downloads/nota_etiqueta (1).sql",
+		"/C/Users/AJ/Downloads/nota_etiqueta (3).sql",
+		"/C/Users/AJ/Downloads/nota_etiqueta (5).sql",
+		"/C/Users/AJ/Downloads/nota_etiqueta (2).sql",
+		"/C/Users/AJ/Downloads/nota_etiqueta.sql",
+		"/C/xampp/htdocs/laravel/database/migrations/2020_02_05_075940_etiqueta.php",
+		"/C/xampp/htdocs/laravel/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/laravel/app/Models/etiqueta.php",
+		"/C/xampp/htdocs/laravel/database/seeds/NotaTableSeeder.php",
+		"/C/xampp/htdocs/laravel/database/migrations/2020_02_05_080026_nota_etiqueta.php",
+		"/C/xampp/htdocs/laravel/resources/views/tableros/main.blade.php",
+		"/C/xampp/htdocs/laravel/app/Http/Controllers/TableroController.php",
+		"/C/xampp/htdocs/laravel/routes/api.php",
+		"/C/xampp/htdocs/laravel/database/seeds/TableroTableSeeder.php",
+		"/C/xampp/htdocs/tableros/database/seeds/TableroTableSeeder.php",
+		"/C/xampp/htdocs/tableros/database/seeds/NotaTableSeeder.php",
+		"/C/xampp/htdocs/laravel/database/migrations/2020_02_04_080612_create_nota_table.php"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 169.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"const",
+			"Usuario",
+			"isbn",
+			"foo",
+			"\t\n",
+			"$this->",
+			"mysql",
+			"if (property_exists($this, $key))\n\t\t\t\tswitch($key):\n\t\t\t\t\tcase \"nombre\"   :\n\t\t\t\t\tcase \"telefono\" : return $this->$key ; break ;\n\t\t\t\t\tdefault:\n\t\t\t\t\t\tthrow new Exception(\"Error Processing Request\", 1);\n\t\t\t\t\t\t\n\t\t\t\tendswitch ;\n\t\t\t\t\t ;\n",
+			"protected",
+			"private",
+			"public",
+			"modificarCadena",
+			"foo",
+			"pass",
+			"usr",
+			"lad",
+			"5",
+			"php echo ",
+			"_GET[\"lad\"]",
+			"bor",
+			"lad",
+			"requried",
+			"lad",
+			"Lad",
+			"lad",
+			"button",
+			"Alberto López",
+			"<tr>\n\t\t\t<td>Jessica Rodriguez</td>\n\t\t\t<td>Alberto López</td>\n\t\t\t<td>Álvaro</td>\n\t\t</tr>",
+			"GET",
+			"ape",
+			"nom",
+			"$}\t",
+			"”",
+			"apellido",
+			"nombre",
+			"req",
+			"idl",
+			"idu",
+			"__constructor",
+			" $",
+			"con",
+			"idNot",
+			"Route",
+			"...",
+			"\n{%",
+			"h6"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "inventario.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2069,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1596,
+								1601
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2160.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "libs/inventario.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1630,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1115,
+								1115
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1486.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "objetos/Item.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1842,
+								1842
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3673.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "operaciones.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 45.0
+	},
+	"input":
+	{
+		"height": 59.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "inventario.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
