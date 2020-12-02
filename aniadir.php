@@ -1,5 +1,9 @@
 <?php
 
+	// Antonio J.Sánchez
+	// Desarrollo Web en Entorno Servidor
+	// curso 2020|21
+
 	if (!empty($_GET)):
 
 		require_once "objetos/Puesto.php" ;
