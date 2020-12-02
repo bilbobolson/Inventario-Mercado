@@ -20,4 +20,4 @@ Con respecto al inventario, elegido un puesto, se mostrará un listado de los ar
 
 # Esquema E/R de la base de datos
 
-<!--<p><img src="https://github.com/bilbobolson/Connet/blob/main/base%20de%20datos/connet_ER.PNG" width="800"></p>-->
+<p><img src="https://github.com/bilbobolson/Inventario-Mercado/blob/master/base%20de%20datos/inventario_ER.png" width="500"></p>
