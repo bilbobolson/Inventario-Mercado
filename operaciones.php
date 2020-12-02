@@ -1,5 +1,9 @@
 <?php
 
+	// Antonio J.Sánchez
+	// Desarrollo Web en Entorno Servidor
+	// curso 2020|21
+
 	require_once "objetos/Item.php" ;
 	
 	// recuperamos los datos
